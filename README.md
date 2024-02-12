@@ -7,5 +7,5 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ToddABrowne/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ToddABrowne/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Active Directory Configuration](https://github.com/ToddABrowne/configure-ad)
+  - [Active Directory Configuration](https://github.com/ToddABrowne/Active-Directory-Config)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ToddABrowne/azure-network-protocols)
